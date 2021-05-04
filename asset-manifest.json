@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/the-movie-universe/static/css/main.21d75a66.chunk.css",
+    "main.js": "/the-movie-universe/static/js/main.5925d9e5.chunk.js",
+    "main.js.map": "/the-movie-universe/static/js/main.5925d9e5.chunk.js.map",
+    "runtime-main.js": "/the-movie-universe/static/js/runtime-main.24eab76f.js",
+    "runtime-main.js.map": "/the-movie-universe/static/js/runtime-main.24eab76f.js.map",
+    "static/js/2.6a472c3a.chunk.js": "/the-movie-universe/static/js/2.6a472c3a.chunk.js",
+    "static/js/2.6a472c3a.chunk.js.map": "/the-movie-universe/static/js/2.6a472c3a.chunk.js.map",
+    "static/js/3.3295ac3b.chunk.js": "/the-movie-universe/static/js/3.3295ac3b.chunk.js",
+    "static/js/3.3295ac3b.chunk.js.map": "/the-movie-universe/static/js/3.3295ac3b.chunk.js.map",
+    "index.html": "/the-movie-universe/index.html",
+    "static/css/main.21d75a66.chunk.css.map": "/the-movie-universe/static/css/main.21d75a66.chunk.css.map",
+    "static/js/2.6a472c3a.chunk.js.LICENSE.txt": "/the-movie-universe/static/js/2.6a472c3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24eab76f.js",
+    "static/js/2.6a472c3a.chunk.js",
+    "static/css/main.21d75a66.chunk.css",
+    "static/js/main.5925d9e5.chunk.js"
+  ]
+}
