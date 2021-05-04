@@ -45,11 +45,12 @@ const Search = () => {
             </button>
           </form>
           <div className='my-10 grid grid-cols-2 md:grid-cols-4 gap-4'>
-            {movies
-              .filter((movie) => movie.poster_path)
-              .map((movie) => (
-                <Movie movie={movie} key={movie.id} />
-              ))}
+            {movies &&
+              movies
+                .filter((movie) => movie.poster_path)
+                .map((movie) => <Movie movie={movie} key={movie.id} />)}
+
+            {!movies && <p>Loading....</p>}
           </div>
         </div>
       </section>
