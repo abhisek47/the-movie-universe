@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-movie-universe/static/css/main.21d75a66.chunk.css",
-    "main.js": "/the-movie-universe/static/js/main.78b632fe.chunk.js",
-    "main.js.map": "/the-movie-universe/static/js/main.78b632fe.chunk.js.map",
+    "main.js": "/the-movie-universe/static/js/main.e3163c43.chunk.js",
+    "main.js.map": "/the-movie-universe/static/js/main.e3163c43.chunk.js.map",
     "runtime-main.js": "/the-movie-universe/static/js/runtime-main.53bf0dac.js",
     "runtime-main.js.map": "/the-movie-universe/static/js/runtime-main.53bf0dac.js.map",
     "static/js/2.c7f9f1c2.chunk.js": "/the-movie-universe/static/js/2.c7f9f1c2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.53bf0dac.js",
     "static/js/2.c7f9f1c2.chunk.js",
     "static/css/main.21d75a66.chunk.css",
-    "static/js/main.78b632fe.chunk.js"
+    "static/js/main.e3163c43.chunk.js"
   ]
 }
